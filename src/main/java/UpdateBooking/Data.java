@@ -5,7 +5,7 @@ public class Data {
     {
         booking b = new booking();
         b.setFirstname("Jolie");
-        b.setLastname("Adel");
+        b.setLastname("Hanna");
         b.setDepositpaid(true);
         b.setAdditionalneeds("Breakfast & dinner");
         b.setTotalprice(250);
